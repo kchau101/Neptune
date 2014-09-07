@@ -1,0 +1,34 @@
+5: {text: "\n==Project Neptune==\n===Fri, September 5th, 2014===\n\nThis is the first
+    time I'm trying out RedNotebook for scientific/documentation purposes.\nI have
+    a lot of difficulty using paper journals for this purpose, so I hope that an electronic\nversion
+    will be more effective.\n\n===Overview:===\nMost of the work today was spent on
+    fixing wiring issues and testing to ensure that the\nsystem was still properly
+    grounded and functioned correctly with 120Vac input.\n\n===Tests:===\n====Power
+    On:====\n- 1. Mains voltage applied to IEC connector. \n- 2. Confirm that no shorts
+    exist upstream of fuse.\n- 3. Connect power to transformer primary\n- 4. Confirm
+    again that the fuse is still intact.\n- 5. Power down.\n\n\n===Results:===\nPower
+    On Test #1\n====================\n\n- Confirmed that the system does not have
+    any shorts.\n\n- Verified correct operation of fuse, transformer, and power switch.\n\n-
+    **Transformer Voltage: 28Vac (P-P)**\n=====================\n===Conclusions &
+    Recommendations: ===\nThe decision to make the switch from the test soldered connections
+    to crimped connectors\nwas a wise decision. The internals are much less likely
+    to short and the wiring looks overall\nmuch better and secure than before. \n\nOf
+    important note is the use of different gauges of wire. The day's work has made
+    me realize\nthat different gauges are required, not only due to diameter, but
+    because of flexing and the likelihood\nof flex induced wire damage. When wires
+    are carrying Mains voltage, it's of particular importance that\nthey don't get
+    fatigued from flexing. I should consider keeping both #22 and #18 gauge wire at
+    all times.\n\nThe need for shorter standoffs also presented itself.\n=====================\n**Tags:**
+    #Neptune #Electronics #Amplifier"}
+6: {text: "\n==Project Neptune==\n===Saturday, 9/6/2014 3:52:01 PM===\n\n===Overview:===\nToday's
+    work has been spent on creating the schematic inside of Proteus.\n\nI am especially
+    focusing on the BOM and ensuring that I make a professional grade schematic\nand
+    PCB. So, I took time to add proper PCB footprints and parts to the libraries available.\n\n===Work
+    Breakdown - ===\n//**Schematic - **//\n- Added the Panasonic caps to the libarary.\n-
+    Added the basic full wave rectifier and voltage regulators\n- Decided how I want
+    to do schematic notes and how to bond earth ground to secondary\n- Setup PDF workflow
+    and tools\n- Added XLR connector and figured out how to show graphics without
+    pins in schematic\n\n\nDid calculation of the resistors required. Chose R1=120R
+    due to reduced thermal noise.\nFrom this, calculated R2=840R\n===Tests:===\n===Results:===\n===Conclusions
+    & Recommendations:===\n====================\n**Tags:**\t#Neptune #Electronics
+    #Amplifier"}
