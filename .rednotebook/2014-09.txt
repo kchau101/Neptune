@@ -29,6 +29,42 @@
     to do schematic notes and how to bond earth ground to secondary\n- Setup PDF workflow
     and tools\n- Added XLR connector and figured out how to show graphics without
     pins in schematic\n\n\nDid calculation of the resistors required. Chose R1=120R
-    due to reduced thermal noise.\nFrom this, calculated R2=840R\n===Tests:===\n===Results:===\n===Conclusions
+    due to reduced thermal noise.\nFrom this, calculated R2=840R\n\n[\"\"file:///C:\\Users\\Kevin\\Desktop\\Neptune
+    Screenshots\\2014-09-06 03_40_42-Neptune - Proteus 8 Professional - Schematic
+    Capture\"\".png]\n===Tests:===\n===Results:===\n===Conclusions & Recommendations:===\n====================\n**Tags:**\t#Neptune
+    #Electronics #Amplifier"}
+9: {text: "\n==Project Neptune==\n===Wednesday, 9/10/2014 4:02:32 AM===\n\n===Overview:===\nAll
+    of today's work was centered around the proper selection of a DC blocking cap
+    for the preamp.\n\n===Work Breakdown - ===\nSearched through catalog and chose
+    a polarized aluminum electrolytic which was to be doubled\nto be used as a nonpolarized
+    capacitor.\n===Tests:===\n\n===Results:===\n[\"\"file:///C:\\Users\\Kevin\\Desktop\\Neptune
+    Screenshots\\2014-09-10 04_04_09-Neptune - Proteus 8 Professional - Schematic
+    Capture\"\".png]\n===Conclusions & Recommendations:===\n====================\n**Tags:**\t#Neptune
+    #Electronics #Amplifier #AluminumCap #Polarized #PCBFootprint"}
+10: {text: "\n==Project Neptune==\n===Thursday, 9/11/2014 2:55:20 AM===\n\n===Overview:===\nAdded
+    most of the amplifier chip circuitry and made some decisions regarding\nthe gain
+    control.\n\nDecided on the type of output configuration. Still pondering whether
+    a DC\nservo to remove offset voltage is necessary.\n\nNeed to add 50R resistor
+    to output to prevent ringing when driving cable capacitance.\n===Work Breakdown
+    - ===\nAdded the INA217 chip and footprint.\nMoved some parts around on schematic
+    to fit in on bottom section of page.\nDiscovered there is no way to get reverse
+    log behaviour from a linear pot. \n===Tests:===\n===Results:===\n===Conclusions
     & Recommendations:===\n====================\n**Tags:**\t#Neptune #Electronics
-    #Amplifier"}
+    #Amplifier #Alwaysplanahead #Potentiometers"}
+12: {text: "\n==Project Neptune==\n===Saturday, 9/13/2014 3:04:10 AM===\n\n===Overview:===\nAdded
+    mic output to schematic.\nAdded TRS-1/4IN jack to schematic.\nStarted new root
+    sheet for Clipping Detect circuit.\nCleaned up Title Block Information.\n\n===Work
+    Breakdown - ===\nDecided how to best show the transformer connections while providing
+    a terminal\nblock for connecting the secondary.\n\nLearned that I could add wire
+    labels and hide them, essentially naming nets to connect them.\nUsing the \"SHOW
+    NETS ON SCHEMATIC\" feature is very useful for seeing what is connected.\n===Tests:===\n===Results:===\n[\"\"file:///C:\\Users\\Kevin\\Desktop\\Neptune
+    Screenshots\\2014-09-13 03_09_30-Neptune - Proteus 8 Professional - Schematic
+    Capture\"\".png]\n\n\n====Revised Title Block:====\n\n[\"\"file:///C:\\Users\\Kevin\\Desktop\\Neptune
+    Screenshots\\2014-09-13 03_17_11-Neptune - Proteus 8 Professional - Schematic
+    Capture\"\".png]\n===Conclusions & Recommendations:===\nGiven the number of hours
+    spent on making sure the schematic is just right, I'm beginning to understand\nand
+    be awed at the scale and difficulty of making a complex 16-layer PCB.\n\nAlso
+    realizing how useful it is to take a snapshot of the PCB after every revision
+    to learn from changes I've made.\n\nUse the #MasterSheet in #Proteus to edit how
+    the title block information looks.\n====================\n**Tags:**\t#Neptune
+    #Electronics #Amplifier #PCBLayout #NewFootprint #Proteus #Documentation"}

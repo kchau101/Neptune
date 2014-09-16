@@ -9,3 +9,5 @@ for a personal project.
 If you'd like to use this design, please reference the TI document,
 as I don't think this particular implementation will be of any significant contribution
 to the work done by TI.
+
+I've left a rednotebook folder for documentation of the process. Read if you'd like.
